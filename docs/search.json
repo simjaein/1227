@@ -46,7 +46,7 @@
     "href": "ji_re.html#introduction-of-data",
     "title": "???",
     "section": "Introduction of Data",
-    "text": "Introduction of Data\n\n\n\n\n\n\n\n\n\ntype\nposts\n\n\n\n\n1\nENTP\n'I'm finding the lack of me in these posts ver...\n\n\n\n\n\n\n\n\n\n이 데이터셋은 Kaggle의 Myers-Briggs Personality Type으로, 8675개 이상의 항목으로 구성됩니다. 각 항목에는 저자의 4자리 MBTI와 성격에 관한 포럼인 Personality Cafe의 50개 게시물의 저자가 작성한 게시물이다. 각 게시물 저자당 평균 단어 수는 약 1,500개 입니다."
+    "text": "Introduction of Data\n\n\n\n\n\n\n\n\n\ntype\nposts\n\n\n\n\n1\nENTP\n'I'm finding the lack of me in these posts ver...\n\n\n\n\n\n\n\n\n\n\n실제 데이터:\n\n이 데이터셋은 Kaggle의 Myers-Briggs Personality Type으로, 8675개 이상의 항목으로 구성됩니다. 각 항목에는 저자의 4자리 MBTI와 성격에 관한 포럼인 Personality Cafe의 50개 게시물의 저자가 작성한 게시물이다. 각 게시물 저자당 평균 단어 수는 약 1,500개 입니다."
   },
   {
     "objectID": "ji_re.html#introduction-of-data-1",
@@ -116,7 +116,7 @@
     "href": "ji_re.html#challenges-in-data-collection-1",
     "title": "???",
     "section": "Challenges in Data Collection",
-    "text": "Challenges in Data Collection\n\nClass NameEmojiVariation in Generated Text LengthOutcome Analysis\n\n\n1\n\n2\n\n3\n\n4\n\n5\n\n\n\n1\n\n2\n\n3\n\n\n\n1\n\n2\n\n\n\n1\n\n\n\n\n\n\nClass이름\n이모티콘\n생성된 글의 길이 차이\n결과 도출"
+    "text": "Challenges in Data Collection\n\nClass NameEmojiVariation in Generated Text LengthOutcome Analysis\n\n\n1\n\n2\n\n3\n\n4\n\n5\n\n\n\n1\n\n2\n\n3\n\n\n\n1\n\n2\n\n\n\n1\n\n\n\n\n\n\n데이터 수집의 어려움\n\nClass이름 &gt; 첫번째 사진은 환상적은 여행을 떠나며 어떨지 상상도 하며, 카페나 풍경, 먹거리 등 여러 체험을 하는 부분이 enfp 같다\n\n\n\n두번째 사진은\n\n\n이모티콘\n생성된 글의 길이 차이\n결과 도출"
   },
   {
     "objectID": "ji_re.html#realdata-analaysis",
