@@ -4,7 +4,7 @@
     "href": "ji_re.html#outline",
     "title": "???",
     "section": "Outline",
-    "text": "Outline\n\nIntroduction\nIntroduction of Data\nProposed Method\nRealdata Analaysis"
+    "text": "Outline\n\nIntroduction\nIntroduction of Data\nProposed Method\nRealdata Analaysis\n\n\n이번 발표 순서는 introduction, introduction of data, proposed method, realdata analaysis 순으로 발표하겠습니다."
   },
   {
     "objectID": "ji_re.html#introduction",
@@ -116,7 +116,28 @@
     "href": "ji_re.html#challenges-in-data-collection-1",
     "title": "???",
     "section": "Challenges in Data Collection",
-    "text": "Challenges in Data Collection\n\nClass NameEmojiVariation in Generated Text LengthOutcome Analysis\n\n\n1\n\n2\n\n3\n\n4\n\n5\n\n\n\n1\n\n2\n\n3\n\n\n\n1\n\n2\n\n\n\n1\n\n\n\n\n\n\n데이터 수집의 어려움\n\nClass이름 &gt; 첫번째 사진은 환상적은 여행을 떠나며 어떨지 상상도 하며, 카페나 풍경, 먹거리 등 여러 체험을 하는 부분이 enfp 같다\n\n\n\n두번째 사진은\n\n\n이모티콘\n생성된 글의 길이 차이\n결과 도출"
+    "text": "Challenges in Data Collection\nClass Name\n\nEx 1Ex 2Ex 3Ex 4Ex 5"
+  },
+  {
+    "objectID": "ji_re.html#challenges-in-data-collection-2",
+    "href": "ji_re.html#challenges-in-data-collection-2",
+    "title": "???",
+    "section": "Challenges in Data Collection",
+    "text": "Challenges in Data Collection\nEmoji\n\nEx 1Ex 2Ex 3Ex 4"
+  },
+  {
+    "objectID": "ji_re.html#challenges-in-data-collection-3",
+    "href": "ji_re.html#challenges-in-data-collection-3",
+    "title": "???",
+    "section": "Challenges in Data Collection",
+    "text": "Challenges in Data Collection\nVariation in Generated Text Length\n\nEx 1Ex 2"
+  },
+  {
+    "objectID": "ji_re.html#challenges-in-data-collection-4",
+    "href": "ji_re.html#challenges-in-data-collection-4",
+    "title": "???",
+    "section": "Challenges in Data Collection",
+    "text": "Challenges in Data Collection\nOutcome Analysis\n\n\n\n데이터 수집의 어려움\n\nClass이름 &gt; 첫번째 사진은 환상적은 여행을 떠나며 어떨지 상상도 하며, 카페나 풍경, 먹거리 등 여러 체험을 하는 부분이 enfp 같다\n\n\n\n두번째 사진은\n\n\n이모티콘\n생성된 글의 길이 차이\n결과 도출"
   },
   {
     "objectID": "ji_re.html#realdata-analaysis",
