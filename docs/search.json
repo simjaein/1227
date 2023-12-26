@@ -116,7 +116,7 @@
     "href": "jaein.html#data-from-chatgpt-2",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nTitle: GPT Data Collection Process\nData Collection Process:\n\nDefine the MBTI for Performance Measurement.\nDefine the Topic: Clearly define a topic for ChatGPT, presenting scenarios such as traveling to a destination or being invited to a friend’s birthday party. Request predictions on how one might post on Instagram in such situations.\n\nSetting such conditions helps define the scope of generated data, preventing responses from being too similar.\n\n제목: GPT 자료 수집 과정\n자료 수집 과정:\n\n성능 측정할 각 MBTI 결정\n주제 정의: ChatGPT에게 명확한 주제를 정의 ex) 여행지를 놀러갔을 경우, 친구 생일파티에 초대되었을 경우 등 상황을 제시, 인스타그램에 어떻게 게시물을 올릴지 예측해달라고 하고 싶어 그렇게 질문함.\n\n이러한 조건을 설정하지 않으면 답변들이 비슷하게 나오기 때문에 생성 자료의 범위를 정의하는 데 도움이 됨"
+    "text": "Data from ChatGPT\nData Collection Process:\n\nDefine the MBTI for Performance Measurement.\nDefine the Topic: Clearly define a topic for ChatGPT, presenting scenarios such as traveling to a destination or being invited to a friend’s birthday party. Request predictions on how one might post on Instagram in such situations.\n\nSetting such conditions helps define the scope of generated data, preventing responses from being too similar.\n\n제목: GPT 자료 수집 과정\n자료 수집 과정:\n\n성능 측정할 각 MBTI 결정\n주제 정의: ChatGPT에게 명확한 주제를 정의 ex) 여행지를 놀러갔을 경우, 친구 생일파티에 초대되었을 경우 등 상황을 제시, 인스타그램에 어떻게 게시물을 올릴지 예측해달라고 하고 싶어 그렇게 질문함.\n\n이러한 조건을 설정하지 않으면 답변들이 비슷하게 나오기 때문에 생성 자료의 범위를 정의하는 데 도움이 됨"
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-3",
@@ -137,28 +137,28 @@
     "href": "jaein.html#data-from-chatgpt-5",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nChallenges in Data Collection: The Issue of Subsequent Regeneration of Similar Content in Generated Data"
+    "text": "Data from ChatGPT\nRegeneration of Similar Content"
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-6",
     "href": "jaein.html#data-from-chatgpt-6",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nChallenges in Data Collection: The Issue of Class Names Being Included in the Generated Text\n\nEx 1Ex 2Ex 3Ex 4Ex 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n데이터 수집의 어려움\n\nClass이름"
+    "text": "Data from ChatGPT\nClass Names Being Included in the Generated Text\n\nEx 1Ex 2Ex 3Ex 4Ex 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n데이터 수집의 어려움\n\nClass이름"
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-7",
     "href": "jaein.html#data-from-chatgpt-7",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nChallenges in Data Collection: The Issue of Emojis Being Included in the Generated Text\n\nEx 1Ex 2Ex 3Ex 4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n데이터 수집의 어려움\n\n이모티콘"
+    "text": "Data from ChatGPT\nEmojis Being Included in the Generated Text\n\nEx 1Ex 2Ex 3Ex 4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n데이터 수집의 어려움\n\n이모티콘"
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-8",
     "href": "jaein.html#data-from-chatgpt-8",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nChallenges in Data Collection: The Issue of Varying Lengths in Generated Texts\n\nEx 1Ex 2\n\n\n\n\n\n\n\n\n\n\n\n데이터 수집의 어려움\n\n생성된 글의 길이 차이"
+    "text": "Data from ChatGPT\nVarying Lengths in Generated Texts\n\nEx 1Ex 2\n\n\n\n\n\n\n\n\n\n\n\n데이터 수집의 어려움\n\n생성된 글의 길이 차이"
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-9",
@@ -189,11 +189,18 @@
     "text": "Experiment 1\n\n\n                                                \n\n\n\n데이터를 train과 test로 나눠봤습니다\n가장 데이터 수가 적은 4개의 데이터에 GPT 생성 데이터를 추가시켰습니다\n파란색은 실제 데이터이며, 빨간색이 gpt 생성 데이터이다."
   },
   {
-    "objectID": "jaein.html#experiment-1-3",
-    "href": "jaein.html#experiment-1-3",
+    "objectID": "jaein.html#experiment-1-.scrollable-smaller",
+    "href": "jaein.html#experiment-1-.scrollable-smaller",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment 1",
-    "text": "Experiment 1\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
+    "section": "Experiment 1 {.scrollable smaller}",
+    "text": "Experiment 1 {.scrollable smaller}\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
+  },
+  {
+    "objectID": "jaein.html#experiment-1-.scrollable-smaller-1",
+    "href": "jaein.html#experiment-1-.scrollable-smaller-1",
+    "title": "Text Data Augmentation via ChatGPT",
+    "section": "Experiment 1 {.scrollable smaller}",
+    "text": "Experiment 1 {.scrollable smaller}\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
   },
   {
     "objectID": "jaein.html#experiment1",
