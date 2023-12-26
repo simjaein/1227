@@ -228,6 +228,6 @@
     "href": "jaein.html#conclusion-and-discussion-1",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Conclusion and Discussion",
-    "text": "Conclusion and Discussion\n\n실험2는 더 많은 데이터를 모아서 시뮬레이션 했으면 더 좋은 결과가 나왔을 것 같다.\n생성 데이터만을 가지고 단독적으로 시뮬레이션 했을 때는 생각보다 결과가 좋지 않아서 아쉬웠다.\n실험3 같은 경우 정반대의 MBTI를 추가해봤더니 실험2에 비해 ACU가 많이 올라서 흥미로웠다."
+    "text": "Conclusion and Discussion\n\nExperiment 2 might have yielded better results if we had collected more data for simulation.\nI was disappointed with the performance when simulating solely with generated data, it didn’t turn out as well as expected.\nExperiment 3 on the other hand, was intriguing as adding the opposite MBTI resulted in a significant increase in ACU compared to Experiment 2.\n\n\n\n실험2는 더 많은 데이터를 모아서 시뮬레이션 했으면 더 좋은 결과가 나왔을 것 같다.\n생성 데이터만을 가지고 단독적으로 시뮬레이션 했을 때는 생각보다 결과가 좋지 않아서 아쉬웠다.\n실험3 같은 경우 정반대의 MBTI를 추가해봤더니 실험2에 비해 ACU가 많이 올라서 흥미로웠다."
   }
 ]
