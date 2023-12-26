@@ -67,7 +67,7 @@
     "href": "jaein.html#related-works-4",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Related Works",
-    "text": "Related Works\nIn NLP, there are two main types of data augmentation methods:\n\nTraditional text-level methods, like synonym replacement, random deletion, and random insertion, which rely on direct operations on existing samples (Feng et al. 2021).\nMethods utilizing language models, including backtranslation (Sennrich, Haddow, and Birch 2015) and word vector interpolation (Jindal et al. 2020), which leverage language models for data augmentation .\n\n\n텍스트증강기법\n\n전통적인방법: 동의어 교체, 무작위 삭제, 및 무작위 삽입과 같이 기존 샘플을 직접 변형하는 방법\n최근연구: 언어모형을 바탕으로한 “backtranslation” 혹은 워드벡터인터폴레이션(텍스트도 어떠한 숫자들어 변환되어 있는데, 이 숫자로 바뀐채로 존재하는 데이터를 인터폴레이션하여 새로운 단어를 생성)."
+    "text": "Related Works\nIn NLP, there are two main types of data augmentation methods:\n\nTraditional text-level methods, like synonym replacement, random deletion, and random insertion, which rely on direct operations on existing samples (Feng et al. 2021).\nMethods utilizing language models, including backtranslation (Sennrich, Haddow, and Birch 2015) and word vector interpolation (Jindal et al. 2020), which leverage language models for data augmentation .\n\n\n텍스트증강기법\n\n전통적인방법: 동의어 교체, 무작위 삭제, 및 무작위 삽입과 같이 기존 샘플을 직접 변형하는 방법\n최근연구: 언어모형을 바탕으로한 “backtranslation”(번역된 문장을 다시 원래 언어로 번역하는 방법), 혹은 워드벡터인터폴레이션(텍스트도 어떠한 숫자들어 변환되어 있는데, 이 숫자로 바뀐채로 존재하는 데이터를 인터폴레이션하여 새로운 단어를 생성)."
   },
   {
     "objectID": "jaein.html#related-works-5",
@@ -88,7 +88,7 @@
     "href": "jaein.html#data-description-1",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data Description",
-    "text": "Data Description\nReal-World Data from Kaggle\n\nOverview of Kaggle Dataset\nCharacteristics and Features of the Data\n\nSynthetic Data Generation via GPT\n\nDetailed Process of Data Creation with GPT\nChallenges in the Generation Process (e.g., Emoticons, Length, Duplicated Content)"
+    "text": "Data Description\nReal-World Data from Kaggle\n\nOverview of Kaggle Dataset\nCharacteristics and Features of the Data\n\nSynthetic Data Generation via GPT\n\nDetailed Process of Data Creation with GPT\nChallenges in the Generation Process (e.g., Emoticons, Length, Duplicated Content)\n\n\n데이터 설명\nKaggle의 실제 데이터\n\nKaggle 데이터셋 개요\n데이터의 특성 및 특징\n\nGPT를 통한 합성 데이터 생성\n\nGPT를 사용한 데이터 생성의 상세 과정\n생성 과정에서의 도전과제 (예: 이모티콘, 길이, 중복 콘텐츠)"
   },
   {
     "objectID": "jaein.html#data-from-kaggle",
@@ -179,7 +179,7 @@
     "href": "jaein.html#experiment1",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Experiment1",
-    "text": "Experiment1\nAll experiment results are summarized below.\n\nhttps://simjaein.github.io/1227_results/results.html"
+    "text": "Experiment1\nAll experiment results are summarized below.\n\nhttps://simjaein.github.io/1227_results/results.html\n\n\n전체 데이터는 아래에서 확인하실 수 있습니다."
   },
   {
     "objectID": "jaein.html#experiment1-1",
