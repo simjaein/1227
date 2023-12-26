@@ -123,28 +123,14 @@
     "href": "jaein.html#data-from-chatgpt-3",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT"
-  },
-  {
-    "objectID": "jaein.html#section",
-    "href": "jaein.html#section",
-    "title": "Text Data Augmentation via ChatGPT",
-    "section": "",
-    "text": "Utilizing the GPT model, automatically generate posts for each MBTI personality type based on the given topics and conditions.\nResponses vary and are diverse depending on the identified MBTI when conditions are provided.\n\n\n\nGPT 모델을 활용하여 각 MBTI 성격 유형별에 위의 주어진 주제와 조건에 따른 게시물을 자동으로 생성을 함.\n조건을 주어졌을 때 어떤 MBTI인지에 따라 다르고 다양한 답변이 나옴."
+    "text": "Data from ChatGPT\n\nUtilizing the GPT model, automatically generate posts for each MBTI personality type based on the given topics and conditions.\nResponses vary and are diverse depending on the identified MBTI when conditions are provided.\n\n\n\nGPT 모델을 활용하여 각 MBTI 성격 유형별에 위의 주어진 주제와 조건에 따른 게시물을 자동으로 생성을 함.\n조건을 주어졌을 때 어떤 MBTI인지에 따라 다르고 다양한 답변이 나옴."
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-4",
     "href": "jaein.html#data-from-chatgpt-4",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT"
-  },
-  {
-    "objectID": "jaein.html#section-1",
-    "href": "jaein.html#section-1",
-    "title": "Text Data Augmentation via ChatGPT",
-    "section": "",
-    "text": "Review the initially generated data and adjust conditions as needed to align with research objectives.\nModifications were made to the generated content to better fit the research goals. Specifically, for an Instagram-like post, the MBTI and emoji included in the original sentence were removed as requested.\nAdditionally, adjustments were made to ensure the character count per question is around 1,500 aiming for a balance similar to real-world data.\nThis process aimed to enhance the quality of the data, and the selected data was finalized.\n\n\n\n처음 생성된 자료를 확인하고, 필요에 따라 조건을 수정하여 연구 목표에 부합하도록 조정함.\n실제 인스타그램 게시물처럼 질문한 MBTI와 이모티콘이 함께 작성되어 문장 속에 해당 MBTI와 이모티콘을 빼달라는 수정을 하였다.\n그리고 한 질문당 글자수가 너무 작거나 많은 등 글자수의 차이가 심해 실제 데이터와 비슷하게끔 1,500자로 설정을 했음.\n이로써 자료의 품질을 향상시키고 선택된 자료를 확정했음."
+    "text": "Data from ChatGPT\n\nReview the initially generated data and adjust conditions as needed to align with research objectives.\nModifications were made to the generated content to better fit the research goals. Specifically, for an Instagram-like post, the MBTI and emoji included in the original sentence were removed as requested.\nAdditionally, adjustments were made to ensure the character count per question is around 1,500 aiming for a balance similar to real-world data.\nThis process aimed to enhance the quality of the data, and the selected data was finalized.\n\n\n\n처음 생성된 자료를 확인하고, 필요에 따라 조건을 수정하여 연구 목표에 부합하도록 조정함.\n실제 인스타그램 게시물처럼 질문한 MBTI와 이모티콘이 함께 작성되어 문장 속에 해당 MBTI와 이모티콘을 빼달라는 수정을 하였다.\n그리고 한 질문당 글자수가 너무 작거나 많은 등 글자수의 차이가 심해 실제 데이터와 비슷하게끔 1,500자로 설정을 했음.\n이로써 자료의 품질을 향상시키고 선택된 자료를 확정했음."
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-5",
