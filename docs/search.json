@@ -193,7 +193,7 @@
     "href": "jaein.html#experiment1-2",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Experiment1",
-    "text": "Experiment1\n\nRecallPrecisionF1 scoreAUC\n\n\n\n\n                                                \n\n\n\nmacro recall이며, one vs other recall (하나만 1이고 나머지를 0으로 두고 한다)\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n랜덤으로 찍으면 0.5가 나온다. 그래서 다 0.5보다 위이다\nrecall, precision, f1score, auc 네 가지를 돌려보았고, 모델을 6개만 사용한 이유는 이렇게 6가지가 가장 유의미했고, auc 모델만 결과요약에 사용한 것은 스레시홀드가 상관이 없고, 대중적으로 많이 사용하는 것이라 결과로 내보았다."
+    "text": "Experiment1\n::: {.panel-tabset} #### Recall\n\n\n                                                \n\n\n\nmacro recall이며, one vs other recall (하나만 1이고 나머지를 0으로 두고 한다) 랜덤으로 찍으면 0.5가 나온다. 그래서 다 0.5보다 위이다\nrecall, precision, f1score, auc 네 가지를 돌려보았고, 모델을 6개만 사용한 이유는 이렇게 6가지가 가장 유의미했고, auc 모델만 결과요약에 사용한 것은 스레시홀드가 상관이 없고, 대중적으로 많이 사용하는 것이라 결과로 내보았다.\n\nPrecision\n\n\n                                                \n\n\nF1 score\n\n\n                                                \n\n\nAUC"
   },
   {
     "objectID": "jaein.html#experiment2",
@@ -214,7 +214,7 @@
     "href": "jaein.html#experiment3",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Experiment3",
-    "text": "Experiment3\n\n+0+20+40+60+80+100+120+140\n\n\n\n\n                                                \n\n\n\nENFJ와 다른 데이터 5개를 추가 ENFJ만 train 데이터를 안한다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 20 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 40 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 60 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 80 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 100 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 120 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 140 추가했다"
+    "text": "Experiment3\n\n+0+20+40+60+80+100+120+140\n\n\n\n\n                                                \n\n\n\nENFJ와 다른 데이터 5개를 추가 ENFJ만 train 데이터를 안한다\n\nENFJ train data를 20 추가했다\nENFJ train data를 40 추가했다\nENFJ train data를 60 추가했다\nENFJ train data를 80 추가했다\nENFJ train data를 100 추가했다\nENFJ train data를 120 추가했다\nENFJ train data를 140 추가했다\n\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 20 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 40 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 60 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 80 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 100 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 120 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 140 추가했다"
   },
   {
     "objectID": "jaein.html#experiment3-1",
