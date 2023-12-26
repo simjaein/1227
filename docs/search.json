@@ -193,7 +193,7 @@
     "href": "jaein.html#experiment1-2",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Experiment1",
-    "text": "Experiment1\n::: {.panel-tabset} #### Recall\n\n\n                                                \n\n\n\nmacro recall이며, one vs other recall (하나만 1이고 나머지를 0으로 두고 한다) 랜덤으로 찍으면 0.5가 나온다. 그래서 다 0.5보다 위이다\nrecall, precision, f1score, auc 네 가지를 돌려보았고, 모델을 6개만 사용한 이유는 이렇게 6가지가 가장 유의미했고, auc 모델만 결과요약에 사용한 것은 스레시홀드가 상관이 없고, 대중적으로 많이 사용하는 것이라 결과로 내보았다.\n\nPrecision\n\n\n                                                \n\n\nF1 score\n\n\n                                                \n\n\nAUC"
+    "text": "Experiment1\n\nRecallPrecisionF1 scoreAUC\n\n\n\n\n                                                \n\n\n\nmacro recall이며, one vs other recall (하나만 1이고 나머지를 0으로 두고 한다) 랜덤으로 찍으면 0.5가 나온다. 그래서 다 0.5보다 위이다\nrecall, precision, f1score, auc 네 가지를 돌려보았고, 모델을 6개만 사용한 이유는 이렇게 6가지가 가장 유의미했고, auc 모델만 결과요약에 사용한 것은 스레시홀드가 상관이 없고, 대중적으로 많이 사용하는 것이라 결과로 내보았다."
   },
   {
     "objectID": "jaein.html#experiment2",
