@@ -39,7 +39,7 @@
     "href": "jaein.html#introduction-5",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Introduction",
-    "text": "Introduction\n\nFigure 2: Graphical Illustration of the Research Methodology\n이것은 대략적인 연구방법을 그림으로 표현한 것입니다. train에서 실험1. 에서는 실제 데이터만을 가지고 모델을 시뮬레이션 해보고, 실험2. 에서는 실제 데이터와 생성 데이터를 합쳐서 모델 시뮬레이션 해보고, 실험 3. 에서는 생성 데이터만을 가지고 모델을 시뮬레이션 한뒤 결과를 비교하는 방식으로 연구가 진행된다.\n물론 test는 다 실제 데이터만으로 시뮬레이션 되었다."
+    "text": "Introduction\n\nFigure 2: Graphical Illustration of the Research Methodology\n이것은 대략적인 연구방법을 그림으로 표현한 것입니다. train에서 실험1. 에서는 첫번째 사진과 두번째 사진의 비교, 실험2., 3.은 두번째와 세번째 사진 비교 물론 test는 다 실제 데이터만으로 시뮬레이션 되었다."
   },
   {
     "objectID": "jaein.html#related-works-1",
@@ -74,14 +74,14 @@
     "href": "jaein.html#related-works-5",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Related Works",
-    "text": "Related Works\n\nHowever, traditional methods have limitations in terms of text data accuracy and diversity, as discussed in a survey by Bayer et al. (Bayer, Kaufhold, and Reuter 2022).\nRecently, with the emergence of very large language models like the GPT family, there has been active research aimed at using them to augment text and address various NLP problems.\n\n\n그러나 바이어의 연구에 따르면 이러한 전통적인 텍스트증강기법은 다양성등에서 문제점이 지적되고 있다. 최근에는 GPT를 비롯한 거대언어모형의 등장으로 이를 활용한 텍스트 증강기법이 연구되고 있다."
+    "text": "Related Works\n\nHowever, traditional methods have limitations in terms of text data accuracy and diversity, as discussed in a survey by Bayer et al. (Bayer, Kaufhold, and Reuter 2022).\nRecently, with the emergence of very large language models like the GPT family, there has been active research aimed at using them to augment text and address various NLP problems.\n\n\n그러나 바이어의 연구에 따르면 이러한 전통적인 텍스트증강기법은 다양성등에서 문제점이 지적되고 있다. 그래서 최근에는 GPT와 같은 거대언어모형을 활용한 텍스트 증강기법이 활발히 연구되고 있다."
   },
   {
     "objectID": "jaein.html#related-works-6",
     "href": "jaein.html#related-works-6",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Related Works",
-    "text": "Related Works\n\nHaixing Dai and colleagues introduced AugGPT(Dai et al. 2023), a text data augmentation technique using ChatGPT to rephrase sentences for enhanced NLP model training and improved text classification results.\nSeokjin Oh and Woohwan Jung proposed a data augmentation method for neural machine translation that leverages generative language models to enhance performance (Oh, Jung, et al. 2023).\n\n\n“하이싱 다이”는 AugGPT를 제안하여 FewShotLearning문제를 해결하는 새로운 모형을 제안함. 오석진은 (저번달연구) 프롬프르에 따른 텍스트자료 증강기법과 그 성능을 비교하였음. 저번달에 발표된 연구임."
+    "text": "Related Works\n\nHaixing Dai and colleagues introduced AugGPT(Dai et al. 2023), a text data augmentation technique using ChatGPT to rephrase sentences for enhanced NLP model training and improved text classification results.\nSeokjin Oh and Woohwan Jung proposed a data augmentation method for neural machine translation that leverages generative language models to enhance performance (Oh, Jung, et al. 2023).\n\n\n아래 두 연구는 거대언어모형증강기법 “하이싱 다이”는 AugGPT를 제안하여 FewShotLearning문제를 해결하는 새로운 모형을 제안함. 오석진은 (저번달연구) 프롬프르에 따른 텍스트자료 증강기법과 그 성능을 비교하였음. 저번달에 발표된 연구임."
   },
   {
     "objectID": "jaein.html#data-description-1",
@@ -93,6 +93,13 @@
   {
     "objectID": "jaein.html#data-from-kaggle",
     "href": "jaein.html#data-from-kaggle",
+    "title": "Text Data Augmentation via ChatGPT",
+    "section": "Data from Kaggle",
+    "text": "Data from Kaggle\n\n\n\n\n\n\n\n\n\ntype\nposts\n\n\n\n\n1\nENTP\n'I'm finding the lack of me in these posts ver...\n\n\n3\nINTJ\n'Dear INTP, I enjoyed our conversation the o...\n\n\n7\nINTJ\n'I tend to build up a collection of things on ..."
+  },
+  {
+    "objectID": "jaein.html#data-from-kaggle-1",
+    "href": "jaein.html#data-from-kaggle-1",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from Kaggle",
     "text": "Data from Kaggle\n\n\n                                                \n\n\n\n실제 데이터의 각 항목당 평균 데이터 수가 490여개인데, 데이터의 최대수는 1800여개이고, 최소는 40여개 정도이다. 총 16개의 항목 중에 데이터수가 적은 ‘ESTP’, ‘ESFP’, ‘ESFJ’, ‘ESTJ’ 이 네 개의 데이터를 보완해주는 데이터를 만들었음."
@@ -116,14 +123,14 @@
     "href": "jaein.html#data-from-chatgpt-2",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nData Collection Process:\n\nDefine the MBTI for Performance Measurement.\nDefine the Topic: Clearly define a topic for ChatGPT, presenting scenarios such as traveling to a destination or being invited to a friend’s birthday party. Request predictions on how one might post on Instagram in such situations.\nReview the initially generated data and adjust conditions as needed to align with research objectives.\n\n\n제목: GPT 자료 수집 과정\n자료 수집 과정:\n\n성능 측정할 각 MBTI 결정\n주제 정의: ChatGPT에게 명확한 주제를 정의 ex) 여행지를 놀러갔을 경우, 친구 생일파티에 초대되었을 경우 등 상황을 제시, 인스타그램에 어떻게 게시물을 올릴지 예측해달라고 하고 싶어 그렇게 질문함.\n\n이러한 조건을 설정하지 않으면 답변들이 비슷하게 나오기 때문에 생성 자료의 범위를 정의하는 데 도움이 됨\n\n처음 생성된 자료를 확인하고, 필요에 따라 조건을 수정하여 연구 목표에 부합하도록 조정함.\n실제 인스타그램 게시물처럼 질문한 MBTI와 이모티콘이 함께 작성되어 문장 속에 해당 MBTI와 이모티콘을 빼달라는 수정을 하였다.\n그리고 한 질문당 글자수가 너무 작거나 많은 등 글자수의 차이가 심해 실제 데이터와 비슷하게끔 1,500자로 설정을 했음.\n이로써 자료의 품질을 향상시키고 선택된 자료를 확정했음."
+    "text": "Data from ChatGPT\nData Collection Process:\n\nChoose MBTI type\nDefine the Topic: Clearly define a topic for ChatGPT, presenting scenarios such as traveling to a destination or being invited to a friend’s birthday party. Request predictions on how one might post on Instagram in such situations.\nReview the initially generated data and adjust conditions as needed to align with research objectives.\n\n\n제목: GPT 자료 수집 과정\n자료 수집 과정:\n\n성능 측정할 각 MBTI 결정 (연구 목표에 따라서 바뀐다.)\n주제 정의: ChatGPT에게 명확한 주제를 정의 ex) 여행지를 놀러갔을 경우, 친구 생일파티에 초대되었을 경우 등 상황을 제시, 인스타그램에 어떻게 게시물을 올릴지 예측해달라고 하고 싶어 그렇게 질문함.\n\n이러한 조건을 설정하지 않으면 답변들이 비슷하게 나오기 때문에 생성 자료의 범위를 정의하는 데 도움이 됨\n\n처음 생성된 자료를 확인하고, 필요에 따라 조건을 수정하여 연구 목표에 부합하도록 조정함.\n실제 인스타그램 게시물처럼 질문한 MBTI와 이모티콘이 함께 작성되어 문장 속에 해당 MBTI와 이모티콘을 빼달라는 수정을 하였다.\n그리고 한 질문당 글자수가 너무 작거나 많은 등 글자수의 차이가 심해 실제 데이터와 비슷하게끔 1,500자로 설정을 했음.\n이로써 자료의 품질을 향상시키고 선택된 자료를 확정했음."
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-3",
     "href": "jaein.html#data-from-chatgpt-3",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nRegeneration of Similar Content"
+    "text": "Data from ChatGPT\nRegeneration of Similar Content\n\n3번의 대해 자세히 말씀 드리면, 자료 수집 과정의 여러가지 문제점이 있었는데요 그 중 하나인 영상에서 보이는 것처럼 문장생성 중 반복적인 문장이 나오는것을 확인하실 수 있습니다"
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-4",
