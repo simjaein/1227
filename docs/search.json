@@ -95,7 +95,7 @@
     "href": "jaein.html#data-from-kaggle",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from Kaggle",
-    "text": "Data from Kaggle\n\n\n\n\n\n\n\n\n\ntype\nposts\n\n\n\n\n1\nENTP\n'I'm finding the lack of me in these posts ver...\n\n\n3\nINTJ\n'Dear INTP, I enjoyed our conversation the o...\n\n\n7\nINTJ\n'I tend to build up a collection of things on ..."
+    "text": "Data from Kaggle\n\n\n\n\n\n\n\n\n\ntype\nposts\n\n\n\n\n1\nENTP\n'I'm finding the lack of me in these posts ver...\n\n\n3\nINTJ\n'Dear INTP, I enjoyed our conversation the o...\n\n\n7\nINTJ\n'I tend to build up a collection of things on ...\n\n\n\n\n\n\n\n\n실제 데이터: 이 데이터셋은 Kaggle의 Myers-Briggs Personality Type으로, 8675개 이상의 항목으로 구성됩니다. 각 항목에는 저자의 4자리 MBTI와 성격에 관한 포럼인 Personality Cafe의 50개 게시물의 저자가 작성한 게시물이다. 각 게시물 저자당 평균 단어 수는 약 1,500개 입니다."
   },
   {
     "objectID": "jaein.html#data-from-kaggle-1",
