@@ -175,20 +175,6 @@
     "text": "Experiment 1\n\n\n                                                \n\n\n\n데이터를 train과 test로 나눠봤습니다\n가장 데이터 수가 적은 4개의 데이터에 GPT 생성 데이터를 추가시켰습니다\n파란색은 실제 데이터이며, 빨간색이 gpt 생성 데이터이다."
   },
   {
-    "objectID": "jaein.html#experiment-1-3",
-    "href": "jaein.html#experiment-1-3",
-    "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment 1",
-    "text": "Experiment 1\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
-  },
-  {
-    "objectID": "jaein.html#experiment-1-4",
-    "href": "jaein.html#experiment-1-4",
-    "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment 1",
-    "text": "Experiment 1\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
-  },
-  {
     "objectID": "jaein.html#experiment1",
     "href": "jaein.html#experiment1",
     "title": "Text Data Augmentation via ChatGPT",
