@@ -203,45 +203,45 @@
     "text": "Experiment 1\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
   },
   {
-    "objectID": "jaein.html#experiment1",
-    "href": "jaein.html#experiment1",
+    "objectID": "jaein.html#experiment-1-5",
+    "href": "jaein.html#experiment-1-5",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment1",
-    "text": "Experiment1\n\n\n                                                \n\n\n\n대체적으로 파랑색보다 빨간색의 모형설정이 더 높게 나왔다. 그러므로 gpt로 설정된 데이터가 모형성능을 개선하는데 도움이 되었다"
+    "section": "Experiment 1",
+    "text": "Experiment 1\n\n\n                                                \n\n\n\n대체적으로 파랑색보다 빨간색의 모형설정이 더 높게 나왔다. 그러므로 gpt로 설정된 데이터가 모형성능을 개선하는데 도움이 되었다"
   },
   {
-    "objectID": "jaein.html#experiment1-1",
-    "href": "jaein.html#experiment1-1",
+    "objectID": "jaein.html#experiment-1-6",
+    "href": "jaein.html#experiment-1-6",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment1",
-    "text": "Experiment1\n\nRecallPrecisionF1 scoreAUC\n\n\n\n\n                                                \n\n\n\nmacro recall이며, one vs other recall (하나만 1이고 나머지를 0으로 두고 한다)\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n랜덤으로 찍으면 0.5가 나온다. 그래서 다 0.5보다 위이다\nrecall, precision, f1score, auc 네 가지를 돌려보았고, 모델을 6개만 사용한 이유는 이렇게 6가지가 가장 유의미했고, auc 모델만 결과요약에 사용한 것은 스레시홀드가 상관이 없고, 대중적으로 많이 사용하는 것이라 결과로 내보았다."
+    "section": "Experiment 1",
+    "text": "Experiment 1\n\nRecallPrecisionF1 scoreAUC\n\n\n\n\n                                                \n\n\n\nmacro recall이며, one vs other recall (하나만 1이고 나머지를 0으로 두고 한다)\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n랜덤으로 찍으면 0.5가 나온다. 그래서 다 0.5보다 위이다\nrecall, precision, f1score, auc 네 가지를 돌려보았고, 모델을 6개만 사용한 이유는 이렇게 6가지가 가장 유의미했고, auc 모델만 결과요약에 사용한 것은 스레시홀드가 상관이 없고, 대중적으로 많이 사용하는 것이라 결과로 내보았다."
   },
   {
-    "objectID": "jaein.html#experiment2",
-    "href": "jaein.html#experiment2",
+    "objectID": "jaein.html#experiment-2",
+    "href": "jaein.html#experiment-2",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment2",
-    "text": "Experiment2\n\n\n                                                \n\n\n\nenfj에 대한 거를 30개를 넣고 테스트를 해봤습니다\n다음은 40개, gpt에서도 40개\n다음은 80개, gpt에서도 80개\n다음에서도 120개, gpt에서도 120개 –&gt; 질적으로 얼마나 좋은지 (총 7번 실험한 것)\n왼쪽에 있는 데이터는 실제 데이터를 추가한 것이고, 오른쪽은 GPT 데이터를 추가한 것이다."
+    "section": "Experiment 2",
+    "text": "Experiment 2\n\n\n                                                \n\n\n\nenfj에 대한 거를 30개를 넣고 테스트를 해봤습니다\n다음은 40개, gpt에서도 40개\n다음은 80개, gpt에서도 80개\n다음에서도 120개, gpt에서도 120개 –&gt; 질적으로 얼마나 좋은지 (총 7번 실험한 것)\n왼쪽에 있는 데이터는 실제 데이터를 추가한 것이고, 오른쪽은 GPT 데이터를 추가한 것이다."
   },
   {
-    "objectID": "jaein.html#experiment2-1",
-    "href": "jaein.html#experiment2-1",
+    "objectID": "jaein.html#experiment-2-1",
+    "href": "jaein.html#experiment-2-1",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment2",
-    "text": "Experiment2\n\n\n                                                \n\n\n\n파란색이 캐글만 추가시킨 거, 빨간색이 gpt만 추가시킨 거 입니다\n질적연구에서는 실제 데이터와 합쳐졌을 때는 괜찮은데 단독으로만은 gpt 데이터가 좋은 데이터는 아니라는 것을 알 수 있습니다.\nauc라 0.5에서 시작한다"
+    "section": "Experiment 2",
+    "text": "Experiment 2\n\n\n                                                \n\n\n\n파란색이 캐글만 추가시킨 거, 빨간색이 gpt만 추가시킨 거 입니다\n질적연구에서는 실제 데이터와 합쳐졌을 때는 괜찮은데 단독으로만은 gpt 데이터가 좋은 데이터는 아니라는 것을 알 수 있습니다.\nauc라 0.5에서 시작한다"
   },
   {
-    "objectID": "jaein.html#experiment3",
-    "href": "jaein.html#experiment3",
+    "objectID": "jaein.html#experiment-3",
+    "href": "jaein.html#experiment-3",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment3",
-    "text": "Experiment3\n\n+0+20+40+60+80+100+120+140\n\n\n\n\n                                                \n\n\n\nENFJ와 다른 데이터 5개를 추가 ENFJ만 train 데이터를 안한다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 20 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 40 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 60 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 80 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 100 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 120 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 140 추가했다"
+    "section": "Experiment 3",
+    "text": "Experiment 3\n\n+0+20+40+60+80+100+120+140\n\n\n\n\n                                                \n\n\n\nENFJ와 다른 데이터 5개를 추가 ENFJ만 train 데이터를 안한다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 20 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 40 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 60 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 80 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 100 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 120 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 140 추가했다"
   },
   {
-    "objectID": "jaein.html#experiment3-1",
-    "href": "jaein.html#experiment3-1",
+    "objectID": "jaein.html#experiment-3-1",
+    "href": "jaein.html#experiment-3-1",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment3",
-    "text": "Experiment3\n\n\n                                                \n\n\n\n클래스 구분이 잘돼서 auc가 빠르게 올라간다 잘 안 올라가는것도 있는데 모델에 따라서 gpt가 제공한 데이터가 유용할때도 있고 아닐때고 있다 (특히 catboost라 리얼데이터는 확 올라가는데 gpt데이터는 많이 올라가지 않는다)"
+    "section": "Experiment 3",
+    "text": "Experiment 3\n\n\n                                                \n\n\n\n클래스 구분이 잘돼서 auc가 빠르게 올라간다 잘 안 올라가는것도 있는데 모델에 따라서 gpt가 제공한 데이터가 유용할때도 있고 아닐때고 있다 (특히 catboost라 리얼데이터는 확 올라가는데 gpt데이터는 많이 올라가지 않는다)"
   }
 ]
