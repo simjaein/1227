@@ -46,14 +46,14 @@
     "href": "jaein.html#related-works-1",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Related Works",
-    "text": "Related Works\nText augmentation can be useful in various situations, and here are some examples of when text augmentation may be needed. Of course, text augmentation can also be useful in other cases.\n\nImbalanced Data\nFew-Shot Learning (Zero-Shot Learning)\nPrivacy Protection"
+    "text": "Related Works\nText augmentation can be useful in various situations, and here are some examples of when text augmentation may be needed. Of course, text augmentation can also be useful in other cases.\n\nImbalanced Data\nFew-Shot Learning (Zero-Shot Learning)\nPrivacy Protection\n\n\n관련 연구\n텍스트 증강은 다양한 상황에서 유용할 수 있으며, 텍스트 증강이 필요한 몇 가지 예시를 살펴보겠습니다. 물론 텍스트 증강은 다른 상황에서도 유용할 수 있습니다.\n\nImbalanced Data\nFew-Shot Learning (Zero-Shot Learning)\nPrivacy Protection"
   },
   {
     "objectID": "jaein.html#related-works-2",
     "href": "jaein.html#related-works-2",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Related Works",
-    "text": "Related Works\nImbalanced Data:\n\nThe data imbalance problem in machine learning, where one class is significantly larger than another, can lead to model bias towards the majority class.\nTo address this, literature offers various solutions categorized into pre-processing, cost-sensitive, algorithmic, and hybrid methods, with resampling techniques like under-sampling, over-sampling (e.g., SMOTE, ADASYN), and hybrid methods being prominent for structured data, while GAN-based approaches are emerging for image data."
+    "text": "Related Works\nImbalanced Data:\n\nThe data imbalance problem in machine learning, where one class is significantly larger than another, can lead to model bias towards the majority class.\nTo address this, literature offers various solutions categorized into pre-processing, cost-sensitive, algorithmic, and hybrid methods, with resampling techniques like under-sampling, over-sampling (e.g., SMOTE, ADASYN), and hybrid methods being prominent for structured data, while GAN-based approaches are emerging for image data.\n\n\n불균형 데이터\n\n머신 러닝에서 한 클래스가 다른 클래스보다 훨씬 큰 경우, 데이터 불균형 문제가 발생할 수 있으며 이는 주로 다수 클래스에 대한 모델 편향을 초래할 수 있습니다.\n이를 해결하기 위해 문헌에서는 전처리, 비용 민감, 알고리즘 및 혼합 방법으로 구분되는 다양한 해결책을 제안하고 있습니다. 구조화된 데이터의 경우 언더 샘플링, 오버 샘플링 (예: SMOTE, ADASYN) 및 혼합 방법이 주목받는 반면, 이미지 데이터에는 GAN 기반 접근 방식이 나타나고 있습니다."
   },
   {
     "objectID": "jaein.html#related-works-3",
@@ -175,29 +175,36 @@
     "text": "Experiment 1\n\n\n                                                \n\n\n\n데이터를 train과 test로 나눠봤습니다\n가장 데이터 수가 적은 4개의 데이터에 GPT 생성 데이터를 추가시켰습니다\n파란색은 실제 데이터이며, 빨간색이 gpt 생성 데이터이다."
   },
   {
-    "objectID": "jaein.html#experiment-1-.scrollable-smaller",
-    "href": "jaein.html#experiment-1-.scrollable-smaller",
+    "objectID": "jaein.html#experiment-1-3",
+    "href": "jaein.html#experiment-1-3",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment 1 {.scrollable smaller}",
-    "text": "Experiment 1 {.scrollable smaller}\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
+    "section": "Experiment 1",
+    "text": "Experiment 1\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
   },
   {
-    "objectID": "jaein.html#experiment-1-.scrollable-smaller-1",
-    "href": "jaein.html#experiment-1-.scrollable-smaller-1",
+    "objectID": "jaein.html#experiment-1-4",
+    "href": "jaein.html#experiment-1-4",
     "title": "Text Data Augmentation via ChatGPT",
-    "section": "Experiment 1 {.scrollable smaller}",
-    "text": "Experiment 1 {.scrollable smaller}\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
+    "section": "Experiment 1",
+    "text": "Experiment 1\n\n\n\n\n\n\n\n\nMethod\nMetrics\nMBTIType\nValue\n\n\n\n\nLoading... (need help?)"
   },
   {
     "objectID": "jaein.html#experiment1",
     "href": "jaein.html#experiment1",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Experiment1",
-    "text": "Experiment1\n\n\n                                                \n\n\n\n대체적으로 파랑색보다 빨간색의 모형설정이 더 높게 나왔다. 그러므로 gpt로 설정된 데이터가 모형성능을 개선하는데 도움이 되었다"
+    "text": "Experiment1\nAll experiment results are summarized below.\n\nhttps://simjaein.github.io/1227_results/results.html"
   },
   {
     "objectID": "jaein.html#experiment1-1",
     "href": "jaein.html#experiment1-1",
+    "title": "Text Data Augmentation via ChatGPT",
+    "section": "Experiment1",
+    "text": "Experiment1\n\n\n                                                \n\n\n\n대체적으로 파랑색보다 빨간색의 모형설정이 더 높게 나왔다. 그러므로 gpt로 설정된 데이터가 모형성능을 개선하는데 도움이 되었다"
+  },
+  {
+    "objectID": "jaein.html#experiment1-2",
+    "href": "jaein.html#experiment1-2",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Experiment1",
     "text": "Experiment1\n\nRecallPrecisionF1 scoreAUC\n\n\n\n\n                                                \n\n\n\nmacro recall이며, one vs other recall (하나만 1이고 나머지를 0으로 두고 한다)\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n\n\n\n                                                \n\n\n\n랜덤으로 찍으면 0.5가 나온다. 그래서 다 0.5보다 위이다\nrecall, precision, f1score, auc 네 가지를 돌려보았고, 모델을 6개만 사용한 이유는 이렇게 6가지가 가장 유의미했고, auc 모델만 결과요약에 사용한 것은 스레시홀드가 상관이 없고, 대중적으로 많이 사용하는 것이라 결과로 내보았다."
@@ -231,10 +238,10 @@
     "text": "Experiment3\n\n\n                                                \n\n\n\n클래스 구분이 잘돼서 auc가 빠르게 올라간다 잘 안 올라가는것도 있는데 모델에 따라서 gpt가 제공한 데이터가 유용할때도 있고 아닐때고 있다 (특히 catboost라 리얼데이터는 확 올라가는데 gpt데이터는 많이 올라가지 않는다)"
   },
   {
-    "objectID": "jaein.html#conclusion-and-discussion",
-    "href": "jaein.html#conclusion-and-discussion",
+    "objectID": "jaein.html#conclusion-and-discussion-1",
+    "href": "jaein.html#conclusion-and-discussion-1",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Conclusion and Discussion",
-    "text": "Conclusion and Discussion\n\n실험3 같은 경우 정반대의 MBTI를 추가해봤더니 실험2에 비해 ACU가 많이 올라서 흥미로웠다.\n실험2는 더 많은 데이터를 모아서 시뮬레이션 했으면 더 좋은 결과가 나왔을 것 같다.\n생성 데이터만을 가지고 단독적으로 시뮬레이션 했을 때는 생각보다 결과가 좋지 않아서 아쉬웠다."
+    "text": "Conclusion and Discussion\n\n실험2는 더 많은 데이터를 모아서 시뮬레이션 했으면 더 좋은 결과가 나왔을 것 같다.\n생성 데이터만을 가지고 단독적으로 시뮬레이션 했을 때는 생각보다 결과가 좋지 않아서 아쉬웠다.\n실험3 같은 경우 정반대의 MBTI를 추가해봤더니 실험2에 비해 ACU가 많이 올라서 흥미로웠다."
   }
 ]
