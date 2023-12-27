@@ -109,7 +109,7 @@
     "href": "jaein.html#data-from-chatgpt",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Data from ChatGPT",
-    "text": "Data from ChatGPT\nVerification of Similarity:\n\n\n\n\n\n\n\n\nKaggle-sourced ESTP Data\n\n\nSplinter Cell Blacklist for Xbox 360. If you get hated on then it’s because you as a person have something to work on. I often come off to people with the opposite of my intention, if I don’t listen to my gut. Sometimes I over think my natural social skills and come off as a sarcastic douche.\n\n\n\n\n\n\n\n\n\n\nChatGPT-generated ESTP Data\n\n\nToday, I had a fantastic experience enjoying adventures in nature! Hiking up a tall mountain, I experienced the beauty of the great outdoors. The view from the summit was absolutely breathtaking. Adventures like these always bring new challenges and a sense of accomplishment, so I want to do more of them!\n\n\n\n\n\n\n\n유사성의 확인\n\n두 데이터를 비교해보면, 데이터가 문장 형식으로 어떠한 상황일 때 각 MBTI의 성격에 맞춰 작성될걸 보면 실제 데이터와 생성 데이터 간의 유사성이 드러납니다."
+    "text": "Data from ChatGPT\nVerification of Similarity:\n\n\n\n\n\n\n\n\nKaggle-sourced ESTP Data\n\n\nSplinter Cell Blacklist for Xbox 360. If you get hated on then it’s because you as a person have something to work on. I often come off to people with the opposite of my intention, if I don’t listen to my gut. Sometimes I over think my natural social skills and come off as a sarcastic douche.\n\n\n\n\n\n\n\n\n\n\nChatGPT-generated ESTP Data\n\n\nToday, I had a fantastic experience enjoying adventures in nature! Hiking up a tall mountain, I experienced the beauty of the great outdoors. The view from the summit was absolutely breathtaking. Adventures like these always bring new challenges and a sense of accomplishment, so I want to do more of them!\n\n\n\n\n\n\nKaggle의 생성 데이터에 대해서도설명드리도록 하겠습니다\n먼저, - 유사성의 확인\n두 데이터를 비교해보면, 데이터가 문장 형식으로 어떠한 상황일 때 각 MBTI의 성격에 맞춰 작성될걸 보면 실제 데이터와 생성 데이터 간의 유사성이 드러납니다."
   },
   {
     "objectID": "jaein.html#data-from-chatgpt-1",
@@ -221,7 +221,7 @@
     "href": "jaein.html#experiment3",
     "title": "Text Data Augmentation via ChatGPT",
     "section": "Experiment3",
-    "text": "Experiment3\n\n+0+20+40+60+80+100+120+140\n\n\n\n\n                                                \n\n\n\nENFJ와 다른 데이터 5개를 추가 ENFJ만 train 데이터를 안한다\n\nENFJ train data를 20 추가했다\nENFJ train data를 40 추가했다\nENFJ train data를 60 추가했다\nENFJ train data를 80 추가했다\nENFJ train data를 100 추가했다\nENFJ train data를 120 추가했다\nENFJ train data를 140 추가했다\n\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 20 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 40 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 60 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 80 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 100 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 120 추가했다\n\n\n\n\n\n                                                \n\n\n\nENFJ train data를 140 추가했다"
+    "text": "Experiment3\n\n+0+20+40+60+80+100+120+140\n\n\n\n\n                                                \n\n\n\n실험3도 퓨샷러닝에 대한 실험이다. 실험2의 결과 좋지 않았는데, 클래스 구분이 잘 되지 않는 경우가 있어 그럴수 있다고 판단했음. 그래서 실험3은 구분이 용이하도록 ENFJ와 정반대인 ISTP 그리고 ENFJ와 MBTI가 하나씩 차이가나는 4개의 타입만을 선택하여 데이터를 재구성하였다. 텍스트의 증강은 0부터 20씩 140까지 증강하였다."
   },
   {
     "objectID": "jaein.html#experiment3-1",
